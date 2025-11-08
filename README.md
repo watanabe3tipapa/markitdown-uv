@@ -1,5 +1,8 @@
 # 📂 markitdown-uv
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.0-green.svg)
+
 ## Microsoft Office ドキュメントを マークダウンファイルに変換します
 
 ### ⚙️ *ローカルでの使い方*
